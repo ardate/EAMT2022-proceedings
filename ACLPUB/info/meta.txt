@@ -9,17 +9,17 @@ month June
 year 2022
 location Ghent, Belgium
 publisher European Association for Machine Translation
-chairs Helena Moniz
-chairs Lieve Macken
-chairs Andrew Rufener
-chairs Loïc Barrault
-chairs Marta R. Costa-jussà
-chairs Christophe Declercq
-chairs Maarit Koponen
-chairs Ellie Kemp
-chairs Spyridon Pilos
-chairs Mikel L. Forcada
-chairs Joachim Van den Bogaert
-chairs Joke Daems
-chairs Arda Tezcan
-chairs Bram Vanroy
+chairs Moniz, Helena
+chairs Macken, Lieve
+chairs Rufener, Andrew
+chairs Barrault, Loïc
+chairs Costa-jussà, Marta R.
+chairs Declercq, Christophe
+chairs Koponen, Maarit
+chairs Kemp, Ellie
+chairs Pilos, Spyridon
+chairs Forcada, Mikel L.
+chairs Van den Bogaert, Joachim
+chairs Daems, Joke
+chairs Tezcan, Arda
+chairs Vanroy, Bram
