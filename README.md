@@ -1,5 +1,5 @@
 # Proceedings of the EAMT 2022
-[EAMT 2022]([https://eamt2020.inesc-id.pt/](https://eamt2022.com/)) - 23rd Annual Conference of the European Association for Machine Translation
+[EAMT 2022](https://eamt2022.com/) - 23rd Annual Conference of the European Association for Machine Translation
 
 By using the processing scripts and templates of [EAMT2020](https://github.com/fmmb/EAMT2020-proceedings).
 
