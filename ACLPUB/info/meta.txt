@@ -1,8 +1,8 @@
 abbrev eamt
 volume_name 1
 type Main Conference
-title The 23nd Annual Conference of the European Association for Machine Translation
-booktitle Proceedings of the 23nd Annual Conference of the European Association for Machine Translation
+title The 23rd Annual Conference of the European Association for Machine Translation
+booktitle Proceedings of the 23rd Annual Conference of the European Association for Machine Translation
 short_booktitle Proceedings of EAMT 2022
 url https://eamt2022.com/
 month June
