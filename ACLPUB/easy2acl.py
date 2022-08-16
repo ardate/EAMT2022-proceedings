@@ -74,7 +74,7 @@ def read_abstracts(fname, papers):
     '''Read abstracts'''
     known_titles = {p["title"]:p["id"] for p in papers}
 
-    paper_info = re.compile(r'<div class="paper">.*?<span class="authors">(.*?)</span>\n<span class="title">(.*?)</span></div>\n<div class="abstract">(.*?)</div>', re.S)
+    paper_info = re.compile(r'<div class="paper">.*?<span class="authors">(.*?)</span>\s*<span class="title">(.*?)</span>\s*</div>\s*<div class="abstract">(.*?)</div>', re.S)
 
     abstracts = {}
     if os.path.exists(fname):
@@ -85,7 +85,7 @@ def read_abstracts(fname, papers):
                 title = re.sub(r"&amp;", "\&", title)
                 if title in known_titles:
                     logging.debug("This is paper: {}".format(known_titles[title]))
-                    abstracts[known_titles[title]] = paper[2].strip()
+                    abstracts[known_titles[title]] = " ".join(paper[2].strip().split())
                 else:
                     logging.warning("Paper not found: {}".format(title))
                     sys.exit(1)
@@ -139,7 +139,6 @@ if __name__ == '__main__':
     for pdf_file in glob('pdf/{}_{}_paper_*.pdf'.format(venue, year)):
         sid = pdf_file.split('_')[-1].replace('.pdf', '')
         pdfs[sid] = pdf_file
-
     # List of accepted papers (seeded with frontmatter)
     papers.insert(0, {"id": "0", "title": metadata['booktitle'], "authors": metadata['chairs']})
 
