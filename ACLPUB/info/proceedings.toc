@@ -12,7 +12,7 @@
 \contentsline {section}{Minh-Quang Pham, Josep Crego and François Yvon. \emph {Multi-Domain Adaptation in Neural Machine Translation with Dynamic Sampling Strategies}}{13}{section*.26}%
 \contentsline {section}{Rudy Loock, Sophie Léchauguette and Benjamin Holt. \emph {The use of online translators by students not enrolled in a professional translation program: beyond copying and pasting for a professional use}}{23}{section*.27}%
 \contentsline {section}{Xabier Soto, Olatz Perez-De-Viñaspre, Gorka Labaka and Maite Oronoz. \emph {Comparing and combining tagging with different decoding algorithms for back-translation in NMT: learnings from a low resource scenario}}{31}{section*.28}%
-\contentsline {section}{Dongqi Pu and Khalil Sima'an. \emph {Passing Parser Uncertainty to the Transformer. Labeled Dependency Distributions for Neural Machine Translation.}}{41}{section*.29}%
+\contentsline {section}{Dongqi Pu and Khalil Sima'an. \emph {Passing Parser Uncertainty to the Transformer: Labeled Dependency Distributions for Neural Machine Translation}}{41}{section*.29}%
 \contentsline {section}{Mark Pluymaekers. \emph {How well do real-time machine translation apps perform in practice? Insights from a literature review}}{51}{section*.30}%
 \contentsline {section}{Ricardo Rei, Ana C Farinha, José G.C. de Souza, Pedro G. Ramos, André F.T. Martins, Luisa Coheur and Alon Lavie. \emph {Searching for COMETINHO: The Little Metric That Could}}{61}{section*.31}%
 \contentsline {section}{Lise Volkart and Pierrette Bouillon. \emph {Studying Post-Editese in a Professional Context: A Pilot Study}}{71}{section*.32}%
